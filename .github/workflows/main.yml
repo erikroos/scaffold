@@ -1,4 +1,4 @@
-name: Python application test with Github Actions
+name: Python 3.8, for AWS Cloud9
 
 on: [push]
 
