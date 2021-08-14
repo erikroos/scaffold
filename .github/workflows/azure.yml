@@ -1,4 +1,4 @@
-name: Python application test with Github Actions, for Azure Cloud Shell
+name: Python 3.7, for Azure Cloud Shell
 on: [push]
 jobs:
   build:
